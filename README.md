@@ -1,2 +1,2 @@
-# SlamBot
+# hello-world
 hello world starter heheh...
